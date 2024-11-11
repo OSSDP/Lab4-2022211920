@@ -13,7 +13,8 @@ package org.example; /**测试用例设计是软件测试过程中的重要环�
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-public class Test {
+
+public class sTest {
 
     private final Solution2 solution = new Solution2();
 
