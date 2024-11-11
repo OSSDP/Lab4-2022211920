@@ -18,7 +18,7 @@ package org.example;
  * 1 <= s.length <= 104
  * s 由小写英文字母组成
  */
-class Solution2 {
+public class Solution2 {
     public String removeDuplicateLetters(String s) {
         boolean[] vis = new boolean[26];
         int[] num = new int[26];
